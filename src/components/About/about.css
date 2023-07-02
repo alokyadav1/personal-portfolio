@@ -1,0 +1,15 @@
+.about-content-text span{
+   padding: 2px 5px;
+   background-color: rgb(207, 207, 134);
+   border-radius: 1rem;
+   line-height: calc(1.5rem + 0.5vw);
+}
+
+.connect-icons-container{
+    background-image: url("../../assets/images/nav-bg.jpg");
+    background-size: cover;
+    border-radius: 1rem;
+    width: fit-content;
+    margin: 0 auto;
+    padding: 1rem 2rem;
+}
